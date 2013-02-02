@@ -1,0 +1,7 @@
+body {
+	background-color: "lightblue";
+}
+
+div#myImage1.loading {
+  background: url("spinner.gif") no-repeat center center;
+}
